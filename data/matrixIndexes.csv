@@ -1,0 +1,817 @@
+unique_gares,indexes_gares
+Sélestat-(Schweisguth),0
+Vézelise Beauregard,1
+Frohmuhl- (Lavoir),2
+Nevers,3
+Bas-Monistrol,4
+Oissel,5
+Hagondange,6
+Mende,7
+Romorantin-BA-G.R.,8
+St-Pierre-de-Chandieu-R,9
+Wissembourg,10
+Pau,11
+Lunel,12
+Sens,13
+Rouen-Rive-Droite,14
+Granville,15
+Cosne-sur-Loire,16
+Callac,17
+Libourne,18
+Ambert,19
+Mont-de-Marsan,20
+Calais Fréthun,21
+St-Denis-près-Martel,22
+Bois-d'Oingt-Centre,23
+St Quentin,24
+Le Mont St Michel,25
+Amiens,26
+Nogent-le-Rotrou,27
+Hyères,28
+Brou,29
+La Souterraine,30
+Le Puy-en-Velay,31
+Lunéville,32
+Ancizes-St-Georges-Bour,33
+Latour de Carol,34
+Chamberry-Jacob,35
+Droué (Centre),36
+Laveline-d-Bruy. Mairie,37
+Wesserling,38
+Reipertswiller-SP.,39
+Busigny,40
+Plouaret-Trégor,41
+Etang,42
+Eymoutiers-Vassiviere,43
+Neuchâtel,44
+Chedde,45
+Bourg-en-Bresse Gare R,46
+Toury,47
+Annemasse,48
+Laon,49
+Blois-Chambord,50
+Bourg-St-Maurice,51
+St-Gilles-Croix-de-Vie,52
+Lozanne,53
+Laqueuille,54
+Poitiers-Gare-Routière,55
+Paris Nord,56
+Riquewihr-Poste,57
+Egletons,58
+Annonay-Gare-Route,59
+Issoire,60
+Loches-Lycee-St-Denis,61
+St-Jean-de-Bassel-Eglis,62
+St-Aignan-Noyers,63
+Alès,64
+Châteaudun,65
+Sedan-Place-Calonne,66
+St Pol sur Ternoise,67
+Villefranche-Vernet-l.B,68
+Montmédy,69
+Le-Blanc-Pl-du-Bateau,70
+Riom_Es_M_la_Poste.,71
+Mussidan,72
+Châteauroux,73
+Lutterbach Tram-train,74
+Castelsarrasin,75
+Le Tréport-Mers-Les-B,76
+Vezin-Carrefour,77
+Bayonne,78
+Ussel,79
+Rumilly,80
+Mirecourt (Lycée Agric),81
+Bourgoin-Jallieu,82
+Sarrebourg (Place Math),83
+Creil,84
+Janzé,85
+Issoudun-Jardin,86
+Les Laumes-Alésia,87
+Luchon-Richelieu,88
+Roanne-Gare-Routière,89
+Saint-Etienne-Chtx GR,90
+Moûtiers-Salins-Brides,91
+Nice-Ville,92
+Bruyères Chanzy Gare,93
+Montpellier-Saint-Roch,94
+Modane,95
+Capdenac,96
+Lyon-Gorge-de-Loup,97
+Gap,98
+Moulins-sur-Allier,99
+Mulhouse-Gare-Centrale,100
+Genève,101
+Privas-Cours-du-Palais,102
+Monaco-Monte-Carlo,103
+Aubagne,104
+Epinal,105
+La Rochelle-Ville,106
+Obernai,107
+Lichtenberg-(Eglise).,108
+Langres-Gendarmerie,109
+Paris-Montp.3-Vaug.,110
+Arcachon,111
+Lannion,112
+Bellegarde-s-V. Gare,113
+Carhaix,114
+Ribeauville-Gare-Routiè,115
+Châteauroux-L-Giraudoux,116
+Courtrai/Kortrijk,117
+Briançon,118
+Cavaillon,119
+Autun,120
+Montluçon-Ville,121
+Travers,122
+Givors-Ville,123
+Lens,124
+Comines (France),125
+Sarrebourg-LP-Messmer,126
+Sète,127
+Lyon-Part-Dieu,128
+Orange,129
+Bitche-Camp,130
+Cannes,131
+Bidos,132
+Bédarieux,133
+Sarre-Union,134
+Roeschwoog,135
+Pauillac,136
+Niedermodern/Uberach,137
+Lamballe,138
+Sancerre-Porte-Cesar,139
+Luchon,140
+Luneville-LP,141
+St-Just-SNCF,142
+Vichy,143
+Pfaffenhoffen-(Mairie).,144
+Compiègne,145
+Sarrebourg,146
+St-Nazaire,147
+St-Marcellin,148
+Dijon-Ville,149
+Dourdan,150
+Rothau,151
+Longages-Noé,152
+Cambo-les-Bains,153
+Kruth,154
+Briouze,155
+Clelles-Mens,156
+Firminy,157
+Nîmes,158
+Limoux,159
+Albens,160
+Gannat,161
+St-Pierre-des-Corps,162
+Fismes,163
+Pontgibaud-Ville,164
+Ternay-Barbières,165
+Ste-Marie-/-Mines-Maire,166
+Bettembourg,167
+Sarreguemines,168
+Châteauroux-Charmilles,169
+Contrexéville,170
+Felletin-Gare,171
+Rouen-Gare-Routière,172
+Aulnoye Aymeries,173
+Génolhac,174
+St-Mariens-St-Yzan,175
+Basel-SBB,176
+Metz-Ville,177
+Chalon-sur-Saône,178
+Agen,179
+Nancy-Ville,180
+Corcieux Le Conti,181
+Munster,182
+Urcay-Hotel-du-Lyon-d'O,183
+Champagnole,184
+Foix,185
+Douai,186
+Moyen,187
+Pont-Audemer-Gare-SNCF,188
+Loudrefing,189
+Joinville,190
+Crépy-en-Valois,191
+Mondoubleau-Rue-Leroy,192
+La Brohinière,193
+Quillan,194
+Remiremont,195
+Lorient,196
+Dinan,197
+Mauriac,198
+Lutzelbourg,199
+Ventimiglia-Stazione,200
+Ribécourt,201
+Castelnaudary,202
+Aubrais-(les),203
+St-Malo,204
+Brive-la-Gaillarde,205
+Redon,206
+L'Isle-Jourdain (Gers),207
+Gien,208
+Chaumont-sur-Tharonne,209
+Champagne-Ardenne,210
+Kédange (Eglise),211
+Paris-Bercy,212
+Châteaudun-LEP-Paulsen,213
+Neuwiller-R.-Bouxwiller,214
+Paris-St-Lazare,215
+Le-Breuil-sur-Couze-Lyc,216
+Poitiers,217
+La Tour-du-Pin,218
+Abancourt,219
+Valence-Gare-Routière,220
+Montréjeau-Gourdan-Pol.,221
+Albi-Ville,222
+Colomiers,223
+Berthelming-Mairie,224
+La Bresse Le Lispach,225
+Herbitzheim R. Hambach,226
+Ax-les-Thermes,227
+Thouars,228
+Longueville (S.-et-M.),229
+St-Vit,230
+Valenciennes,231
+Sérézin,232
+Die,233
+La Roche-sur-Yon,234
+Longuyon (Collège),235
+Auxerre-St-Gervais,236
+Montchanin,237
+Nexon,238
+Valence-Ville,239
+Lamotte-Beuvron,240
+Manosque-Gréoux,241
+St-Sulpice (Tarn),242
+Voves,243
+Chauffailles-Gambetta,244
+Aiton-Salle-Polyvalente,245
+Châteaubriant-TT,246
+Toul,247
+St-Louis-57-Incliné,248
+Quimper,249
+La Douzillère,250
+Raedersheim,251
+Latour-de-Carol-Enveitg,252
+Le-Verdon,253
+Louhans,254
+Toulon,255
+Obermodern,256
+Breil-sur-Roya,257
+Millau,258
+Routot-Place-de-mairie,259
+Meroux,260
+Bricon(la Poste),261
+Luxembourg,262
+Noirétable,263
+Aubigny-sur-Nere-Mail,264
+Les Sables-d'Olonne,265
+Ambérieu-en-Bugey,266
+Dives-Cabourg,267
+Vernon-Giverny,268
+Reims,269
+Thann Arrêt La Poste,270
+Châteauroux Gare Rout.,271
+La Chaux-de-Fonds,272
+Rémilly,273
+Vienne-Gare-Routière,274
+Touet-de-l'Escarène,275
+Martigues,276
+Quimperlé,277
+Bar-le-Duc,278
+Romilly-sur-Seine,279
+Meymac,280
+St-Raphaël-Valescure,281
+Pierrelatte,282
+Périgueux,283
+Argentine,284
+Montargis-OT,285
+Willer-sur-Thur,286
+Avignon-TGV,287
+Massiac-Blesle,288
+Calais Ville,289
+Elbeuf-St-Aubin,290
+Morcenx,291
+Cernay-(Lycée),292
+Langeac,293
+Diemeringen,294
+Payns Abri Savières,295
+Chartres-Gare-Routière,296
+Lisieux,297
+Veynes-Dévoluy,298
+Montélimar-G-Routière,299
+Sathonay-Rillieux,300
+Charleroi Sud,301
+Barenton-sur-Serre,302
+Clion-sur-Indre,303
+Morez Lycée,304
+Brest,305
+Hendaye,306
+Monsempron-Libos,307
+Igney (Centre),308
+Molsheim,309
+Clisson,310
+Reignac-Bourg-Du-Fau,311
+Laval,312
+Miramas,313
+Champagnole-PE-Victor,314
+Grenoble-Gare-Routière,315
+Hirson-Ecoles,316
+Landerneau,317
+Dole-Ville,318
+Decize,319
+Morlaix,320
+WINDEN PFALZ,321
+Thiers,322
+St-Pierre-le-Moûtier,323
+Kehl,324
+Maubeuge,325
+Chambéry-Chal.-les-Eaux,326
+Lièpvre-(Rte-Vancelle),327
+Chatillon-Mail,328
+Marseille-Blancarde,329
+St-Florentin-Vergigny,330
+Sarlat,331
+Tournai,332
+Hirson,333
+Fénétrange (Gendarm.),334
+Culoz,335
+Limeray,336
+Auxonne,337
+Mantes-la-Jolie,338
+Eguzon,339
+Sarrebourg-Abri-Phalsbo,340
+Namur,341
+Tende,342
+Sisteron,343
+Saint-Cyprien-Arènes,344
+Bedous,345
+Persan-Beaumont,346
+Dreux,347
+Boussens,348
+Saverne-(Lycée-Verne),349
+La-Rochelle-Pt-Dauphine,350
+Lauterbourg,351
+Alençon,352
+Ville-sous-La-Ferté,353
+Retiers,354
+Herrlisheim (Bas-Rhin),355
+Avallon,356
+Hombourg (Chapelle),357
+Dax,358
+Truyes-Pl-Du-Souvenir,359
+Yvetot,360
+Châteauroux-Lycée-Agric,361
+Savenay,362
+Evian-les-Bains,363
+St-André-le-Gaz,364
+Saales,365
+Perpignan,366
+Carpentras,367
+Souillac,368
+Romans-Bourg-de-Péage,369
+Liepvre-(-R.-GUTH-),370
+Objat,371
+Courtalain-Centre,372
+Bléré-la-Croix,373
+Metzeral,374
+Hattmatt-S.-Polyvalente,375
+Le Lioran,376
+Mâcon-Loché-TGV,377
+Neussargues,378
+Culmont-Chalindrey,379
+Besançon-Mouillère,380
+Montbrison,381
+Lapeyrouse(Puy-de-Dôme),382
+Damblain Eglise,383
+Chaumont,384
+Biel,385
+Chambourg-Chopin,386
+Paimpol,387
+Menton,388
+Mullheim-Baden-Bf,389
+Nogent-sur-Seine,390
+Bonneville,391
+Sospel,392
+Wingen-sur-Moder,393
+Mauriac-Lycée-Cortat,394
+Etaples Le Touquet,395
+Narbonne,396
+Pompadour,397
+Brioude-Lycée-Lafayette,398
+Messac-Guipry,399
+Chatellerault,400
+Lyon-St-Paul-la-Feuilée,401
+WOERTH RHEIN,402
+Bergerac,403
+St-Pierre-d'Albigny,404
+Givet,405
+La Chaise-Dieu,406
+Thesee,407
+Cluses (Hte-Savoie),408
+Château-Renault,409
+Grandris-Centre,410
+Reignac,411
+Angoulême,412
+Thann-Saint-Jacques,413
+Lourdes,414
+Caen,415
+Macau,416
+Lunéville (Cité Scolai),417
+Marvejols Place Chayla,418
+Toulouse-Matabiau,419
+Lugny,420
+Rue,421
+Delémont,422
+Vittel,423
+Connerré-Beillé,424
+Langogne,425
+Oyonnax,426
+Castres,427
+Port-de-Piles,428
+Ingwiller,429
+Paris-Est,430
+Rennes,431
+Rosporden,432
+Audun-le-Roman,433
+Charleville-Mézières,434
+L'Aigle,435
+Châteauroux-Ly-B-Pascal,436
+Montereau,437
+St-Jean-Pied-de-Port,438
+Bourg-Achard Champ de F,439
+Thonon-les-Bains,440
+Argenton-sur-Creuse,441
+Château-Gaillard,442
+Port-Boulet,443
+Martigny-les-B-Thiebaut,444
+Nevers-Le-Banlay,445
+Rodez,446
+Besançon-Franche-Comté,447
+Tonnerre,448
+Luçay-le-Male,449
+Valence-TGV,450
+Conflans-Jarny,451
+Bréauté-Beuzeville,452
+Clelles-Mairie,453
+Biganos-Facture,454
+Thionville,455
+St-Dizier,456
+Brioude,457
+Bagnoles- Orne Egl.Mad.,458
+Altkirch,459
+Vierzon-Médiathèque,460
+Vauvert,461
+Le Grau-du-Roi,462
+Buswiller-Eglise,463
+Lyon-Perrache,464
+La Roche-sur-Foron,465
+Vallorcine,466
+Chamonix-Mont-Blanc,467
+Haguenau-Moulin-Neuf.,468
+Mutzig-Passage-A-Niveau,469
+Hazebrouck,470
+Belfort-Ville,471
+Lyon-St-Paul-Quai-Bondy,472
+Montmélian,473
+Vif,474
+Morteau,475
+Bitche-Quartier-Driant,476
+Lille Europe,477
+Durtol-Nohanent,478
+Puyoô,479
+Flers,480
+Cahors,481
+Seurre,482
+Angers-St-Laud,483
+Barr,484
+Chagny,485
+Vic-le-Comte,486
+Longuyon,487
+Lyon-Perrache-Gare-Rout,488
+Bueil,489
+Saint-Claude,490
+Ancenis,491
+Dieppe,492
+Rives,493
+St-Chély-d'Apcher,494
+St-Gervais-Ch-LPA.,495
+TOURS LYCEE GRANDMONT,496
+Grasse,497
+Herbitzheim Mairie,498
+Le Creusot,499
+Clermont-Ferrand,500
+Virieu-le-Grand-Belley,501
+Mazamet,502
+Truyes-St-Blaise,503
+Morhange,504
+Villedieu (Gare),505
+Cholet,506
+Niort,507
+Rang du Fl. Verton Ber.,508
+Nouan-le-Fuzelier,509
+Courtalain-St-Pellerin,510
+Communay-Stade,511
+Pontorson-Mt-St-Michel,512
+Surdon,513
+Dijon-Porte-Neuve,514
+Arvant,515
+Montbéliard-Ville,516
+Epierre-St-Léger,517
+Lison,518
+Pont-de-Dore,519
+Le Dorat,520
+Albertville,521
+Rodange,522
+Creutzwald G.R.,523
+Poule-Mairie,524
+Sedan,525
+Tours,526
+Keskastel,527
+Montauban-Ville-Bourbon,528
+Lamure-sur-Azergues,529
+Juvancourt,530
+Saumur,531
+St-Aignan-Pl-Wilson,532
+Corbigny,533
+Mâcon-Ville,534
+Nantes,535
+Offenburg,536
+Riom-Châtel-Guyon,537
+Le Mans,538
+Montreux-Vieux,539
+La Forest,540
+Benfeld,541
+Evreux,542
+Fougères,543
+Les Granges-Narboz,544
+Vierzon,545
+Vallon-en-Sully,546
+Orléans,547
+Bouxwiller-Babenhausen,548
+Trouville-Deauville,549
+St-George-d'Aurac-Bourg,550
+Paray-le-Monial,551
+Marle-sur-Serre,552
+Cannes-la-Bocca,553
+Laissac-Foirail,554
+Romorantin-Lycée-de-F,555
+Gérardmer La Mauselaine,556
+St-Lô,557
+Delle,558
+Cambrai Ville,559
+Bouxwiller-Schattenmann,560
+St-Martin-d'Hères,561
+Grenoble,562
+Valençay,563
+St-Flour-Chaudes-Aigues,564
+La Bastide-St-Laurent,565
+Aix-les-Bains-le-Revard,566
+Pont-St-Vincent,567
+Forbach,568
+Brignais,569
+Mommenheim,570
+Fécamp,571
+Franois,572
+Vesoul,573
+Neuilly-lès-Dijon,574
+Lyon-St-Paul,575
+Le Mont Dore Ski,576
+Esvres,577
+Le-Mont-Dore-Gare,578
+Pamiers,579
+Carnoules,580
+Revigny,581
+St-Aignan-Lep,582
+Luzy(Nièvre),583
+Dunkerque,584
+Grenoble U.-Gières,585
+Verdun,586
+Pont-de-Beauvoisin,587
+Marseille-St-Charles,588
+St-Georges-d'Aurac,589
+Longwy,590
+Wambrechies,591
+Le Havre,592
+Saint-Léonard Centre,593
+Villers-les-Pots,594
+St-Gervais-Mairie,595
+St-Germain-des-Fossés,596
+Marvejols,597
+Le Locle,598
+Issoudun,599
+St-Jean-de-Maurienne-A.,600
+La Verrière,601
+Guéret,602
+Lille Flandres,603
+Carmaux,604
+Volvic,605
+Tassin,606
+St-Yrieix-la-Perche,607
+Avignon-Centre,608
+Chinon-Lycée-Rabelais,609
+Vannes,610
+Paris-Gare-de-Lyon,611
+St-Emilion,612
+Lyon-Part-Dieu-Gare-Rou,613
+Chantonnay,614
+Montauban-de-Bretagne,615
+Aix-Gare-Routière,616
+La Ferté-sur-Chiers,617
+Vallorbe-Cff,618
+Saintes,619
+Arras,620
+Dossenheim-(Mairie),621
+St-Eloy,622
+Mouscron / Moeskroen,623
+Niederbronn,624
+Sèlestat-(Schwilgué),625
+Jougne,626
+St-Brieuc,627
+Salbris,628
+Sain-Bel,629
+Abbeville,630
+Ste-Croix/Mines-Sq-de-G,631
+Dompierre-Halte-Rout.,632
+Neufchateau-Lp,633
+Vorey,634
+St-Rambert-en-Bugey,635
+Carcassonne,636
+St-Priest,637
+Muret,638
+La-Bresse (Pl Champtel),639
+Sarralbe Centre,640
+Lesparre,641
+Le Buisson,642
+Gramat,643
+Béziers,644
+Dol,645
+Rambervillers,646
+Saarbrücken /Sarrebruck,647
+Oloron-Ste-Marie,648
+Saillat-Chassenon,649
+Sewen-(Eglise),650
+Lons-le-Saunier,651
+Bening,652
+Neustadt (Weinstr) Hbf,653
+Béthune,654
+Loches-LEP,655
+Krimmeri-Meinau,656
+Avesnes,657
+St Omer,658
+Mirecourt,659
+Roanne,660
+Le Croisic,661
+Laroche-Migennes,662
+Marmande,663
+Bort-les-Orgues,664
+St-Gervais-L-B-Le-Fayet,665
+Lure,666
+Beauvais-Gare-SNCF,667
+St Christophe / Nais C.,668
+Bresse-Claudel (la),669
+Sélestat,670
+Clermont-de-l'Oise,671
+Troyes,672
+Beslé,673
+Serquigny,674
+Neufchâteau,675
+Is-sur-Tille,676
+Villefranche-sur-Saône,677
+Tessonnières,678
+Arches,679
+Auch,680
+Colmar,681
+Cerbère,682
+Chinon,683
+Bourg-en-Bresse,684
+Besançon-Viotte,685
+Aillevillers,686
+Argentan,687
+Pagny-sur-Moselle,688
+Pornic,689
+Bayel-Eglise,690
+Aix-en-Provence,691
+Allamps-Esat,692
+Ste-Marie/-Ms-(-Théâtre,693
+Jeumont,694
+Albert,695
+Romorantin-Blanc-Argent,696
+Mauzé,697
+Vendeuvre (Aube),698
+Perl Gare DB,699
+Vienne,700
+Bouzonville,701
+Bourges-Gare-Routière,702
+Rambervillers (11 Nov),703
+Nort-sur-Erdre,704
+Sarralbe,705
+Boulogne Ville,706
+Chartres,707
+Laon-Gare-Routière-Poma,708
+St-Etienne-Châteaucreux,709
+Château-Thierry,710
+Haguenau,711
+Bourges,712
+Condat-le-Lardin,713
+Cercy-la-Tour,714
+Cherbourg,715
+Annecy,716
+St-Eloy-les-Mines-Lycée,717
+Port-Bou,718
+Epernay,719
+Bressuire,720
+Bar-sur-Aube,721
+Sucé-Sur-Erdre,722
+Ettendorf-(Angle-Pont),723
+Landau-Pfalz-Hbf,724
+Coutances,725
+Vertaizon,726
+Sablé-sur-Sarthe,727
+Veigné,728
+Mouchard,729
+Mulhouse,730
+Loches,731
+Issoudun-Place-de-la-G.,732
+Saverne-(Pl.-Dragons),733
+St-Junien,734
+Issoire-Lycée-Deville,735
+Versailles-Chantiers,736
+Ste-Pazanne,737
+St-Flour-les-Allées,738
+St-Amand-Montrond-Orval,739
+Rochefort,740
+Châteaubriant,741
+Commentry,742
+Liverdun,743
+Vendôme-Villiers-s-Loir,744
+Luc-en-Diois,745
+Antibes,746
+Bitche,747
+Les Arcs-Draguignan,748
+Château-du-Loir,749
+Strasbourg,750
+Ste-Marie-/-Ms-Pl-.CdG,751
+Saverne-(Ht-Barr),752
+Thann,753
+Montbazon,754
+Font-Romeu-Odeillo-Via,755
+Frasne,756
+Faubourg-d'Orléans,757
+St-Dié-des-Vosges,758
+Montivilliers,759
+"Ettendorf-Pl,-de-L'ecol",760
+Bordeaux-St-Jean,761
+Prissé-la-Charrière,762
+Verneuil-sur-Serre,763
+Limoges-Bénédictins,764
+Vire-Centre,765
+Langon,766
+Rolleville,767
+Vitry-le-François,768
+Rethel,769
+Feurs,770
+Saverne,771
+Buzançais,772
+Mons,773
+Coutras,774
+Charmes (Vosges),775
+Vendôme,776
+L'Arbresle,777
+Digoin,778
+Cormery,779
+Tarbes,780
+Coppet,781
+Pontarlier,782
+Le Valdahon,783
+Aubenas-Pl.-de-la-Paix,784
+St-Sulpice-sur-Lèze,785
+Trier-Hbf (Trèves),786
+Boën,787
+Guingamp,788
+Tergnier,789
+Châlons-en-Champagne,790
+Montreuil-sur-Ille,791
+Vitré,792
+Erstein,793
+Aurillac,794
+Clamecy,795
+Poligny,796
+Dormans,797
+Tourcoing,798
+Tulle,799
+Royan,800
+Sarrebourg-Hôpital,801
+Entzheim-Aéroport,802
+Bruyères (Vosges),803
+Pessac,804
+Nouzonville,805
+Baroncourt,806
+Paris-Austerlitz,807
+Freiburg-Breisgau,808
+Gardanne,809
+Andelot,810
+Cernay (Haut-Rhin),811
+Figeac,812
+Paris-Montparnasse 1-2,813
+Bussang (Gare SNCF),814
+BarentonÂ Cel,815

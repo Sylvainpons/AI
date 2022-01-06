@@ -1,0 +1,1575 @@
+origin,destination,length
+Le Havre,Paris-St-Lazare,138
+Dieppe,Paris-St-Lazare,145
+Paris-St-Lazare,Rouen-Rive-Droite,97
+Cherbourg,Paris-St-Lazare,194
+Caen,Paris-St-Lazare,149
+Paris-St-Lazare,Trouville-Deauville,147
+Granville,Paris-Montp.3-Vaug.,201
+Granville,Paris-Montparnasse 1-2,195
+Dreux,Granville,142
+Bourges,Paris-Austerlitz,122
+Paris-Austerlitz,Vierzon,101
+Bourges,Paris-Bercy,131
+Nevers,Paris-Austerlitz,177
+Bourges,Nevers,38
+Nevers,Paris-Bercy,154
+Nevers,Paris-Gare-de-Lyon,146
+Argentan,Paris-Montp.3-Vaug.,121
+Orléans,Paris-Austerlitz,75
+Paris-Austerlitz,Tours,131
+Orléans,Tours,72
+Aubrais-(les),Paris-Austerlitz,71
+Paris-Bercy,Tours,146
+Orléans,Paris-Bercy,84
+Paris-Austerlitz,St-Pierre-des-Corps,118
+Calais Ville,Paris Nord,183
+Boulogne Ville,Paris Nord,145
+Amiens,Calais Ville,107
+Boulogne Ville,Calais Ville,28
+Amiens,Boulogne Ville,75
+Amiens,Paris Nord,74
+Cambrai Ville,Paris Nord,155
+Maubeuge,Paris Nord,119
+Paris Nord,St Quentin,100
+Compiègne,Maubeuge,80
+Argentan,Dreux,69
+Caen,Le Mans,111
+Caen,Tours,182
+Le Mans,Paris-Montparnasse 1-2,135
+Nogent-le-Rotrou,Paris-Montparnasse 1-2,102
+Chartres,Paris-Montparnasse 1-2,70
+Chartres,Le Mans,70
+Blois-Chambord,Tours,38
+Lyon-Perrache,Tours,366
+Lyon-Perrache,Nevers,211
+Latour-de-Carol-Enveitg,Villefranche-Vernet-l.B,174
+Font-Romeu-Odeillo-Via,Villefranche-Vernet-l.B,88
+Briançon,Romans-Bourg-de-Péage,241
+Briançon,Veynes-Dévoluy,97
+Romans-Bourg-de-Péage,Veynes-Dévoluy,153
+Gap,Romans-Bourg-de-Péage,172
+Briançon,Gap,75
+Briançon,Valence-Ville,247
+Briançon,Marseille-St-Charles,302
+Gap,Marseille-St-Charles,216
+Aix-en-Provence,Marseille-St-Charles,50
+Marseille-St-Charles,Nice-Ville,159
+Les Arcs-Draguignan,Marseille-St-Charles,83
+Grenoble,Valence-Ville,74
+Chambéry-Chal.-les-Eaux,Valence-Ville,125
+Annecy,Valence-Ville,181
+Annecy,Chambéry-Chal.-les-Eaux,53
+Annecy,Avignon-Centre,277
+Annecy,Grenoble,103
+Grenoble,Lyon-Part-Dieu,82
+Avignon-Centre,Lyon-Part-Dieu,141
+Lyon-Part-Dieu,Marseille-St-Charles,246
+Avignon-Centre,Marseille-St-Charles,78
+Dijon-Ville,Paris-Bercy,171
+Dijon-Ville,Paris-Gare-de-Lyon,170
+Lyon-Part-Dieu,Sens,262
+Lyon-Part-Dieu,Paris-Bercy,308
+Dijon-Ville,Lyon-Part-Dieu,124
+Lyon-Part-Dieu,Paris-Gare-de-Lyon,309
+Mâcon-Ville,Paris-Bercy,262
+Dijon-Ville,Mâcon-Ville,74
+Mâcon-Ville,Paris-Gare-de-Lyon,263
+Lyon-Perrache,Paris-Bercy,324
+Dijon-Ville,Lyon-Perrache,137
+Lyon-Perrache,Paris-Gare-de-Lyon,323
+Bourg-St-Maurice,Lyon-Part-Dieu,217
+Bourg-St-Maurice,Bourgoin-Jallieu,188
+Albertville,Bourgoin-Jallieu,119
+Chambéry-Chal.-les-Eaux,Lyon-Part-Dieu,80
+Bourgoin-Jallieu,Chambéry-Chal.-les-Eaux,55
+La Chaux-de-Fonds,Morteau,29
+Besançon-Viotte,La Chaux-de-Fonds,118
+Besançon-Mouillère,La Chaux-de-Fonds,112
+Pontarlier,Vallorbe-Cff,33
+Frasne,Neuchâtel,60
+Neuchâtel,Travers,22
+Dole-Ville,Vallorbe-Cff,63
+Frasne,Vallorbe-Cff,17
+Delémont,Meroux,69
+Delle,Delémont,52
+Biel,Meroux,99
+Biel,Delle,82
+Lyon-Part-Dieu,Modane,182
+Aix-les-Bains-le-Revard,Lyon-Part-Dieu,78
+St-Gervais-L-B-Le-Fayet,Vallorcine,95
+Chamonix-Mont-Blanc,Vallorcine,33
+Chamonix-Mont-Blanc,St-Gervais-L-B-Le-Fayet,45
+Aulnoye Aymeries,Mons,28
+Courtrai/Kortrijk,Lille Flandres,36
+Maubeuge,Namur,84
+Lille Flandres,Tournai,30
+Brive-la-Gaillarde,Ussel,106
+Dijon-Ville,Nevers,203
+Le Creusot,Montchanin,11
+Nice-Ville,Tende,137
+Breil-sur-Roya,Nice-Ville,70
+Annemasse,Coppet,51
+Decize,Nevers,33
+Annemasse,Genève,23
+Coppet,Evian-les-Bains,94
+Coppet,Thonon-les-Bains,85
+Annemasse,Thonon-les-Bains,33
+Annecy,Genève,89
+Annecy,Coppet,117
+Coppet,La Roche-sur-Foron,79
+Coppet,St-Gervais-L-B-Le-Fayet,132
+Cluses (Hte-Savoie),Coppet,108
+Forbach,Metz-Ville,47
+Bening,Metz-Ville,41
+Bitche,Haguenau,69
+Bitche,Niederbronn,26
+Bitche-Camp,Niederbronn,38
+Haguenau,Niederbronn,40
+Bitche-Camp,Haguenau,76
+Haguenau,Strasbourg,50
+Haguenau,Wissembourg,37
+Bouxwiller-Schattenmann,Haguenau-Moulin-Neuf.,43
+Saverne,Niedermodern/Uberach,50
+Ingwiller,Haguenau-Moulin-Neuf.,41
+Dossenheim-(Mairie),Haguenau-Moulin-Neuf.,69
+Obermodern,Saverne-(Ht-Barr),47
+Ingwiller,Saverne-(Ht-Barr),56
+Saverne,Haguenau-Moulin-Neuf.,81
+Bouxwiller-Babenhausen,Dossenheim-(Mairie),20
+Bouxwiller-Schattenmann,Niedermodern/Uberach,25
+Bouxwiller-Schattenmann,Obermodern,10
+Obermodern,Haguenau-Moulin-Neuf.,31
+Obermodern,Saverne,36
+Obermodern,Niedermodern/Uberach,12
+Bouxwiller-Babenhausen,Niedermodern/Uberach,20
+Dossenheim-(Mairie),Obermodern,23
+Saverne,Neuwiller-R.-Bouxwiller,18
+Obermodern,Pfaffenhoffen-(Mairie).,8
+Saverne,Pfaffenhoffen-(Mairie).,43
+Strasbourg,Sélestat,53
+Benfeld,Strasbourg,42
+Colmar,Raedersheim,45
+Buswiller-Eglise,Mommenheim,19
+"Ettendorf-Pl,-de-L'ecol",Mommenheim,15
+Ettendorf-(Angle-Pont),Mommenheim,13
+Bouxwiller-Babenhausen,Mommenheim,30
+Diemeringen,Sarreguemines,31
+Sarreguemines,Strasbourg,125
+Diemeringen,Strasbourg,91
+Strasbourg,Wingen-sur-Moder,64
+Ingwiller,Reipertswiller-SP.,18
+Ingwiller,Lichtenberg-(Eglise).,23
+Saverne,Strasbourg,57
+Lutzelbourg,Saverne,15
+Kruth,Thann Arrêt La Poste,32
+Kruth,Mulhouse,77
+Kruth,Thann,32
+Kruth,Wesserling,7
+Colmar,Metzeral,43
+Cernay (Haut-Rhin),Sewen-(Eglise),60
+Cernay-(Lycée),Sewen-(Eglise),66
+Basel-SBB,Mulhouse,60
+Ingwiller,Saverne-(Lycée-Verne),64
+Frohmuhl- (Lavoir),Saverne-(Ht-Barr),83
+Frohmuhl- (Lavoir),Saverne,58
+Frohmuhl- (Lavoir),Saverne-(Lycée-Verne),85
+Saverne,Hattmatt-S.-Polyvalente,20
+Hattmatt-S.-Polyvalente,Saverne-(Pl.-Dragons),33
+Hattmatt-S.-Polyvalente,Saverne-(Lycée-Verne),42
+Hattmatt-S.-Polyvalente,Saverne-(Ht-Barr),43
+Herrlisheim (Bas-Rhin),Strasbourg,51
+Lauterbourg,Roeschwoog,30
+Entzheim-Aéroport,Strasbourg,20
+Barr,Molsheim,33
+Molsheim,Strasbourg,40
+Barr,Strasbourg,89
+Molsheim,Sélestat,76
+Rothau,Strasbourg,72
+Saales,Strasbourg,104
+Altkirch,Mulhouse,25
+Belfort-Ville,Mulhouse,77
+Belfort-Ville,Montreux-Vieux,30
+Sélestat,Ribeauville-Gare-Routiè,20
+Sélestat,Riquewihr-Poste,36
+Sélestat,Ste-Marie-/-Mines-Maire,35
+St-Dié-des-Vosges,Sélestat,71
+Sélestat,Ste-Marie/-Ms-(-Théâtre,36
+Ste-Croix/Mines-Sq-de-G,Sèlestat-(Schwilgué),55
+Sélestat,Ste-Marie-/-Ms-Pl-.CdG,35
+Ste-Marie-/-Mines-Maire,Sèlestat-(Schwilgué),64
+Liepvre-(-R.-GUTH-),Sèlestat-(Schwilgué),49
+Ste-Marie-/-Ms-Pl-.CdG,Sélestat-(Schweisguth),69
+Sélestat,Lièpvre-(Rte-Vancelle),45
+Montluçon-Ville,Vierzon,125
+Laqueuille,Le-Mont-Dore-Gare,24
+Clermont-Ferrand,Gannat,57
+Gannat,Riom-Châtel-Guyon,46
+Aurillac,St-Denis-près-Martel,111
+Aurillac,Capdenac,88
+Montluçon-Ville,Vichy,108
+Clermont-Ferrand,Le-Mont-Dore-Gare,84
+Clermont-Ferrand,Saint-Etienne-Chtx GR,156
+Thiers,Saint-Etienne-Chtx GR,118
+Clermont-Ferrand,Le Puy-en-Velay,184
+Clermont-Ferrand,Montluçon-Ville,146
+Montluçon-Ville,Riom-Châtel-Guyon,120
+Arvant,Aurillac,121
+Moulins-sur-Allier,Vichy,78
+Clermont-Ferrand,Thiers,71
+Clermont-Ferrand,Volvic,39
+Ancizes-St-Georges-Bour,Volvic,39
+Montluçon-Ville,Urcay-Hotel-du-Lyon-d'O,44
+Montluçon-Ville,St-Amand-Montrond-Orval,59
+Thiers,Vertaizon,40
+Montluçon-Ville,St-Eloy,40
+Lapeyrouse(Puy-de-Dôme),St-Eloy-les-Mines-Lycée,20
+Ancizes-St-Georges-Bour,Clermont-Ferrand,69
+Clermont-Ferrand,St-Gervais-Mairie,91
+Clermont-Ferrand,Le Mont Dore Ski,98
+Clermont-Ferrand,Vertaizon,32
+Volvic,St-Eloy,113
+Arvant,St-Flour-les-Allées,50
+Massiac-Blesle,St-Flour-les-Allées,30
+Arvant,St-Chély-d'Apcher,77
+Clermont-Ferrand,Mauriac-Lycée-Cortat,136
+Lapeyrouse(Puy-de-Dôme),St-Eloy,15
+Clermont-Ferrand,Mauriac,133
+Riom-Châtel-Guyon,St-Gervais-Ch-LPA.,54
+Montluçon-Ville,St-Gervais-Ch-LPA.,60
+Neussargues,Riom_Es_M_la_Poste.,69
+Clermont-Ferrand,St-Flour-les-Allées,93
+Neussargues,St-Chély-d'Apcher,56
+Neussargues,St-Flour-Chaudes-Aigues,31
+St-Chély-d'Apcher,St-Flour-les-Allées,30
+Massiac-Blesle,St-Chély-d'Apcher,49
+Volvic,Pontgibaud-Ville,22
+Brioude-Lycée-Lafayette,Brioude,5
+Langeac,St-Georges-d'Aurac,10
+Langeac,St-George-d'Aurac-Bourg,12
+Brioude,Langeac,37
+Brioude,Le Puy-en-Velay,64
+Langeac,Le Puy-en-Velay,49
+Le Puy-en-Velay,St-Georges-d'Aurac,53
+Arvant,Le Puy-en-Velay,81
+Le Puy-en-Velay,Saint-Etienne-Chtx GR,80
+Le Puy-en-Velay,La Chaise-Dieu,47
+Ambert,Le Puy-en-Velay,107
+Ambert,Vichy,119
+Pont-de-Dore,Vichy,66
+Ussel,Laqueuille,39
+Arvant,Issoire,46
+Vic-le-Comte,Issoire-Lycée-Deville,30
+Issoire,Le-Breuil-sur-Couze-Lyc,13
+Brioude,Issoire,54
+Clermont-Ferrand,Ussel,100
+Luzy(Nièvre),Nevers,98
+Cercy-la-Tour,Nevers,68
+Autun,Etang,21
+Autun,Le Creusot,49
+Autun,Montchanin,62
+Moulins-sur-Allier,Nevers,68
+Nevers,St-Pierre-le-Moûtier,33
+Moulins-sur-Allier,Paray-le-Monial,82
+Chauffailles-Gambetta,Digoin,67
+Digoin,Lozanne,133
+Louhans,Seurre,48
+Bourg-en-Bresse,Seurre,103
+Auxerre-St-Gervais,Avallon,63
+Auxerre-St-Gervais,Clamecy,76
+Auxerre-St-Gervais,Corbigny,111
+Clamecy,Corbigny,35
+Lorient,Quimperlé,22
+Châteaubriant,Janzé,57
+Châteaubriant,Retiers,33
+Dinan,Dol,30
+Valençay,Luçay-le-Male,15
+Romorantin-Blanc-Argent,Salbris,50
+Faubourg-d'Orléans,Romorantin-Blanc-Argent,5
+Faubourg-d'Orléans,Valençay,55
+La Ferté-sur-Chiers,Sedan-Place-Calonne,59
+Châlons-en-Champagne,Verdun,108
+St-Dizier,Vitry-le-François,51
+Joinville,St-Dizier,50
+Chaumont,St-Dizier,123
+Chaumont,Joinville,77
+Chaumont,Langres-Gendarmerie,67
+Chaumont,Troyes,100
+Bar-sur-Aube,Juvancourt,32
+Bar-sur-Aube,Troyes,98
+Troyes,Vendeuvre (Aube),55
+Bayel-Eglise,Juvancourt,18
+Chaumont,Vendeuvre (Aube),60
+Vendeuvre (Aube),Juvancourt,85
+Chaumont,Ville-sous-La-Ferté,48
+Bricon(la Poste),Chaumont,19
+St-Florentin-Vergigny,Troyes,97
+Laroche-Migennes,Troyes,130
+Romilly-sur-Seine,Troyes,78
+Troyes,Payns Abri Savières,26
+Nogent-sur-Seine,Romilly-sur-Seine,35
+Charleville-Mézières,Hirson,60
+Fismes,Reims,58
+Aillevillers,Belfort-Ville,102
+Aillevillers,Lure,37
+Besançon-Viotte,Morteau,88
+Le Locle,Morteau,20
+Le Valdahon,Morteau,54
+Dole-Ville,Mouchard,47
+Lons-le-Saunier,Mouchard,84
+Mouchard,Poligny,28
+Besançon-Viotte,Mouchard,58
+Frasne,Pontarlier,30
+Dompierre-Halte-Rout.,Pontarlier,21
+Pontarlier,Les Granges-Narboz,10
+Frasne,Jougne,56
+Champagnole,Saint-Claude,87
+Champagnole-PE-Victor,Dole-Ville,102
+Andelot,Saint-Claude,107
+Dole-Ville,Saint-Claude,204
+Mouchard,Saint-Claude,124
+Alès,Nîmes,50
+La Bastide-St-Laurent,Langogne,25
+Langogne,Mende,90
+La Bastide-St-Laurent,Mende,68
+Millau,Marvejols Place Chayla,75
+Clermont-Ferrand,Mende,180
+Le Puy-en-Velay,Marvejols,135
+Mende,St-Chély-d'Apcher,84
+La Bastide-St-Laurent,Marvejols,133
+Mende,Marvejols Place Chayla,50
+Carcassonne,Quillan,90
+Carcassonne,Limoux,55
+Limoux,Quillan,45
+Bédarieux,Béziers,60
+Guéret,Montluçon-Ville,66
+Tulle,Ussel,89
+Egletons,Tulle,40
+Egletons,Meymac,25
+Brive-la-Gaillarde,Egletons,63
+Bort-les-Orgues,Ussel,35
+Nancy-Ville,Mirecourt,74
+Martigny-les-B-Thiebaut,Vézelise Beauregard,90
+Damblain Eglise,Nancy-Ville,150
+Contrexéville,Nancy-Ville,116
+Contrexéville,Mirecourt,39
+Vittel,Mirecourt,26
+Nancy-Ville,Martigny-les-B-Thiebaut,133
+Nancy-Ville,Vittel,92
+Nancy-Ville,Mirecourt (Lycée Agric),71
+Bening,Sarreguemines,34
+Bitche-Quartier-Driant,Bening,71
+Charmes (Vosges),Vittel,60
+Charmes (Vosges),Mirecourt,30
+Charmes (Vosges),Mirecourt (Lycée Agric),33
+Igney (Centre),Sarrebourg-LP-Messmer,45
+Sarrebourg,Igney (Centre),39
+Longuyon,Longwy,32
+Longuyon,Montmédy,39
+Longuyon,Vezin-Carrefour,33
+Morhange,Sarrebourg,94
+Sarrebourg,Loudrefing,34
+Morhange,Rémilly,48
+Longuyon (Collège),Vezin-Carrefour,23
+Sarrebourg,St-Jean-de-Bassel-Eglis,35
+Nancy-Ville,Neufchâteau,62
+Fénétrange (Gendarm.),Sarrebourg-Hôpital,42
+Loudrefing,Sarrebourg-LP-Messmer,54
+Sarrebourg (Place Math),St-Jean-de-Bassel-Eglis,24
+Sarrebourg-LP-Messmer,St-Jean-de-Bassel-Eglis,31
+Neufchâteau,Toul,45
+Toul,Neufchateau-Lp,59
+Nancy-Ville,Neufchateau-Lp,88
+Allamps-Esat,Toul,30
+Creutzwald G.R.,Thionville,110
+Fénétrange (Gendarm.),Sarrebourg-LP-Messmer,30
+St-Dié-des-Vosges,Laveline-d-Bruy. Mairie,64
+Epinal,St-Dié-des-Vosges,65
+Bruyères (Vosges),Epinal,43
+Bruyères (Vosges),St-Dié-des-Vosges,48
+Bouzonville,Thionville,67
+Epinal,Laveline-d-Bruy. Mairie,52
+Thionville,Kédange (Eglise),22
+Thionville,Hombourg (Chapelle),26
+Epinal,Saint-Léonard Centre,94
+Corcieux Le Conti,Epinal,81
+Arches,St-Dié-des-Vosges,85
+Bruyères Chanzy Gare,Epinal,35
+Arches,Epinal,20
+Bruyères Chanzy Gare,St-Dié-des-Vosges,48
+Thionville,Perl Gare DB,39
+Sarreguemines,Sarre-Union,52
+Herbitzheim R. Hambach,Sarre-Union,25
+Sarreguemines,Sarralbe Centre,33
+Loudrefing,Sarrebourg (Place Math),50
+Herbitzheim Mairie,Sarre-Union,23
+Sarrebourg,Sarreguemines,85
+Fénétrange (Gendarm.),Sarrebourg-Abri-Phalsbo,33
+Sarreguemines,Sarrebourg (Place Math),116
+Berthelming-Mairie,Sarrebourg-Abri-Phalsbo,17
+Metz-Ville,Nancy-Ville,105
+Saverne,Sarralbe,64
+Keskastel,Sarre-Union,11
+Saverne,Sarre-Union,45
+Bruyères (Vosges),Saint-Léonard Centre,39
+Bar-le-Duc,Revigny,21
+Charmes (Vosges),Epinal,40
+Conflans-Jarny,Pagny-sur-Moselle,45
+Figeac,Gramat,52
+Mazamet,Toulouse-Matabiau,133
+Muret,Pau,218
+Pau,Toulouse-Matabiau,253
+Agen,Castelsarrasin,56
+Longages-Noé,St-Sulpice-sur-Lèze,11
+Montréjeau-Gourdan-Pol.,Luchon-Richelieu,56
+Ax-les-Thermes,Toulouse-Matabiau,145
+Ax-les-Thermes,Foix,47
+Ax-les-Thermes,Pamiers,83
+Montréjeau-Gourdan-Pol.,Luchon,50
+Ax-les-Thermes,Latour de Carol,49
+Foix,Pamiers,33
+Souillac,St-Denis-près-Martel,27
+Albi-Ville,Toulouse-Matabiau,90
+Foix,Toulouse-Matabiau,139
+Comines (France),Lille Flandres,54
+Lille Flandres,Wambrechies,30
+Abbeville,Boulogne Ville,104
+Abbeville,Rue,40
+Lens,Lille Flandres,80
+Avesnes,Hirson-Ecoles,55
+Arras,Douai,40
+Hazebrouck,Lille Flandres,77
+Busigny,St Quentin,60
+Calais Fréthun,Calais Ville,15
+Coutances,Lison,54
+Granville,Lison,84
+Coutances,Granville,36
+Coutances,Pontorson-Mt-St-Michel,85
+Granville,Vire-Centre,75
+Argentan,Flers,53
+Bagnoles- Orne Egl.Mad.,Briouze,40
+Bagnoles- Orne Egl.Mad.,Argentan,60
+Alençon,Surdon,34
+L'Aigle,Surdon,58
+Dreux,L'Aigle,79
+Lisieux,Trouville-Deauville,50
+Dives-Cabourg,Trouville-Deauville,35
+Caen,Rouen-Rive-Droite,100
+Evreux,Serquigny,50
+Villedieu (Gare),Le Mont St Michel,45
+Granville,Rennes,110
+Caen,Rennes,170
+Bréauté-Beuzeville,Fécamp,30
+Mantes-la-Jolie,Rouen-Rive-Droite,125
+Pont-Audemer-Gare-SNCF,Rouen-Gare-Routière,65
+Rouen-Gare-Routière,Routot-Place-de-mairie,50
+Bourg-Achard Champ de F,Pont-Audemer-Gare-SNCF,35
+Nantes,St-Gilles-Croix-de-Vie,104
+Cholet,Nantes,85
+Cholet,Clisson,60
+Albert,Amiens,46
+Beauvais-Gare-SNCF,Creil,70
+Hirson,Laon-Gare-Routière-Poma,80
+Compiègne,Ribécourt,28
+Compiègne,St Quentin,100
+Compiègne,Tergnier,94
+Chatellerault,Poitiers,44
+Mauzé,Niort,40
+Niort,Prissé-la-Charrière,49
+Bressuire,Saumur,87
+Bressuire,Thouars,37
+La Roche-sur-Yon,Saumur,177
+Chambéry-Chal.-les-Eaux,Lyon-Part-Dieu-Gare-Rou,90
+Annecy,Lyon-Part-Dieu-Gare-Rou,112
+Aix-les-Bains-le-Revard,Annecy,35
+Valence-TGV,Grenoble-Gare-Routière,60
+Chambéry-Chal.-les-Eaux,Grenoble-Gare-Routière,70
+Grenoble-Gare-Routière,Valence-Gare-Routière,100
+Grenoble-Gare-Routière,Lyon-Part-Dieu-Gare-Rou,119
+St-André-le-Gaz,Lyon-Perrache-Gare-Rout,110
+Lyon-Part-Dieu-Gare-Rou,Saint-Etienne-Chtx GR,71
+Lozanne,Lyon-Gorge-de-Loup,37
+Lozanne,Lyon-St-Paul-Quai-Bondy,48
+Lyon-Part-Dieu-Gare-Rou,Roanne-Gare-Routière,115
+Lozanne,Grandris-Centre,42
+Lamure-sur-Azergues,Lozanne,46
+Lozanne,Poule-Mairie,60
+Lozanne,Paray-le-Monial,120
+Bois-d'Oingt-Centre,Lozanne,23
+Die,Valence-Gare-Routière,75
+Valence-TGV,Veynes-Dévoluy,185
+Veynes-Dévoluy,Valence-Gare-Routière,165
+Luc-en-Diois,Valence-Gare-Routière,105
+Luc-en-Diois,Valence-TGV,125
+Evian-les-Bains,Grenoble-Gare-Routière,210
+Saint-Etienne-Chtx GR,Valence-Gare-Routière,110
+Modane,Grenoble-Gare-Routière,130
+Annecy,Chamonix-Mont-Blanc,120
+Annonay-Gare-Route,Grenoble-Gare-Routière,170
+St-Gervais-L-B-Le-Fayet,Grenoble-Gare-Routière,190
+Privas-Cours-du-Palais,Valence-Gare-Routière,50
+Annemasse,Grenoble-Gare-Routière,180
+Grenoble-Gare-Routière,Montélimar-G-Routière,127
+Moûtiers-Salins-Brides,Grenoble-Gare-Routière,105
+Chambéry-Chal.-les-Eaux,Cluses (Hte-Savoie),130
+Bonneville,Lyon-Part-Dieu-Gare-Rou,145
+Chambéry-Chal.-les-Eaux,St-Gervais-L-B-Le-Fayet,165
+Aubenas-Pl.-de-la-Paix,Grenoble-Gare-Routière,198
+Annemasse,Chambéry-Chal.-les-Eaux,110
+Chambéry-Chal.-les-Eaux,Chamonix-Mont-Blanc,200
+Annemasse,Evian-les-Bains,60
+Grenoble-Gare-Routière,Privas-Cours-du-Palais,130
+Bourg-en-Bresse Gare R,Chambéry-Chal.-les-Eaux,170
+Oyonnax,Lyon-Part-Dieu-Gare-Rou,90
+Chambéry-Chal.-les-Eaux,Evian-les-Bains,180
+Lyon-Part-Dieu-Gare-Rou,Morez Lycée,195
+Chamonix-Mont-Blanc,Lyon-Part-Dieu-Gare-Rou,240
+Chambéry-Chal.-les-Eaux,Thonon-les-Bains,165
+Chamonix-Mont-Blanc,Grenoble-Gare-Routière,220
+Chamberry-Jacob,St-Gervais-L-B-Le-Fayet,165
+Bonneville,Chambéry-Chal.-les-Eaux,130
+Bourg-St-Maurice,Grenoble-Gare-Routière,160
+Aubenas-Pl.-de-la-Paix,St-Martin-d'Hères,185
+Montélimar-G-Routière,St-Martin-d'Hères,120
+Privas-Cours-du-Palais,St-Martin-d'Hères,145
+Annonay-Gare-Route,St-Martin-d'Hères,160
+Saint-Claude,Lyon-Part-Dieu-Gare-Rou,135
+Bourgoin-Jallieu,Lyon-Part-Dieu-Gare-Rou,51
+Bourg-St-Maurice,Chambéry-Chal.-les-Eaux,145
+Chambéry-Chal.-les-Eaux,Pont-de-Beauvoisin,48
+Thonon-les-Bains,Grenoble-Gare-Routière,200
+Mâcon-Ville,Lyon-Part-Dieu-Gare-Rou,75
+Diemeringen,Sarralbe Centre,36
+Diemeringen,Sarre-Union,20
+Dinan,St-Brieuc,60
+Dinan,Lamballe,73
+Franois,St-Vit,14
+Auxonne,Villers-les-Pots,10
+Dijon-Ville,Neuilly-lès-Dijon,25
+Bellegarde-s-V. Gare,St-Gervais-L-B-Le-Fayet,135
+Bellegarde-s-V. Gare,Evian-les-Bains,115
+Annemasse,St-Gervais-L-B-Le-Fayet,111
+Bellegarde-s-V. Gare,Chamonix-Mont-Blanc,185
+Annemasse,Bellegarde-s-V. Gare,71
+Evian-les-Bains,Thonon-les-Bains,20
+Cluses (Hte-Savoie),St-Gervais-L-B-Le-Fayet,40
+Annemasse,La Roche-sur-Foron,30
+Annecy,Annemasse,60
+Ambérieu-en-Bugey,St-Rambert-en-Bugey,15
+Ambérieu-en-Bugey,Virieu-le-Grand-Belley,52
+Boën,Noirétable,26
+Boën,Saint-Etienne-Chtx GR,92
+Montbrison,Noirétable,44
+Noirétable,Saint-Etienne-Chtx GR,108
+Boën,Montbrison,18
+Montbrison,Saint-Etienne-Chtx GR,60
+Bourg-en-Bresse Gare R,Lyon-Part-Dieu-Gare-Rou,81
+Bourg-en-Bresse Gare R,Mâcon-Loché-TGV,42
+Bourg-en-Bresse Gare R,Mâcon-Ville,62
+Ambérieu-en-Bugey,Lyon-Part-Dieu-Gare-Rou,63
+Chambéry-Chal.-les-Eaux,St-André-le-Gaz,71
+Chambéry-Chal.-les-Eaux,La Tour-du-Pin,86
+Gap,Grenoble-Gare-Routière,127
+Clelles-Mens,Gap,80
+Clelles-Mairie,Grenoble-Gare-Routière,81
+Vif,Grenoble-Gare-Routière,51
+Clelles-Mens,Grenoble-Gare-Routière,73
+Sain-Bel,Lyon-St-Paul-la-Feuilée,60
+Sain-Bel,Lyon-St-Paul-Quai-Bondy,60
+Lyon-Perrache-Gare-Rout,Vienne-Gare-Routière,53
+Bourg-en-Bresse Gare R,Ambérieu-en-Bugey,40
+Argentine,St-Pierre-d'Albigny,28
+St-Priest,St-Pierre-de-Chandieu-R,21
+Villefranche-sur-Saône,Lyon-Perrache-Gare-Rout,60
+La Tour-du-Pin,Rives,55
+Moûtiers-Salins-Brides,St-Pierre-d'Albigny,50
+Albertville,Moûtiers-Salins-Brides,45
+Aix-les-Bains-le-Revard,Chambéry-Chal.-les-Eaux,30
+Bourg-St-Maurice,Moûtiers-Salins-Brides,37
+Chambéry-Chal.-les-Eaux,Modane,113
+Chambéry-Chal.-les-Eaux,Epierre-St-Léger,82
+Aix-les-Bains-le-Revard,Modane,157
+Chambéry-Chal.-les-Eaux,Culoz,65
+Feurs,Saint-Etienne-Chtx GR,60
+Albens,Annecy,45
+Annecy,Rumilly,25
+Sérézin,Ternay-Barbières,13
+Communay-Stade,Sérézin,15
+Epierre-St-Léger,Montmélian,52
+Epierre-St-Léger,St-Pierre-d'Albigny,36
+St-Jean-de-Maurienne-A.,St-Pierre-d'Albigny,70
+Aiton-Salle-Polyvalente,St-Jean-de-Maurienne-A.,58
+Chinon,Tours,82
+Chinon-Lycée-Rabelais,Tours,75
+Tours,St Christophe / Nais C.,60
+Château-du-Loir,Tours,75
+Droué (Centre),Courtalain-St-Pellerin,10
+Courtalain-Centre,Droué (Centre),10
+Chartres-Gare-Routière,Brou,55
+Droué (Centre),Brou,36
+Brou,Chartres,50
+Droué (Centre),Chartres,92
+Vendôme,Mondoubleau-Rue-Leroy,60
+Aubigny-sur-Nere-Mail,Gien,44
+Gien,Montargis-OT,49
+Cosne-sur-Loire,Sancerre-Porte-Cesar,27
+Bourges-Gare-Routière,St-Amand-Montrond-Orval,76
+Bourges,St-Amand-Montrond-Orval,65
+Châteauroux Gare Rout.,Bourges,106
+Bourges,Issoudun-Place-de-la-G.,71
+Châteauroux Gare Rout.,Issoudun-Jardin,40
+Vierzon,Issoudun-Place-de-la-G.,50
+Issoudun,Vierzon,56
+Châteauroux Gare Rout.,Poitiers-Gare-Routière,135
+Le-Blanc-Pl-du-Bateau,Poitiers-Gare-Routière,68
+Nouan-le-Fuzelier,Romorantin-BA-G.R.,55
+Chaumont-sur-Tharonne,Romorantin-BA-G.R.,31
+Lamotte-Beuvron,Romorantin-BA-G.R.,40
+Lamotte-Beuvron,Romorantin-Lycée-de-F,35
+Châteauroux-Ly-B-Pascal,Eguzon,60
+Châteauroux Gare Rout.,Argenton-sur-Creuse,45
+Châteauroux-Ly-B-Pascal,Argenton-sur-Creuse,60
+Châteauroux-Lycée-Agric,Argenton-sur-Creuse,55
+Châteauroux Gare Rout.,Eguzon,80
+Châteauroux Gare Rout.,Issoudun-Place-de-la-G.,36
+Thesee,Romorantin-BA-G.R.,60
+Romorantin-BA-G.R.,St-Aignan-Lep,55
+Romorantin-BA-G.R.,St-Aignan-Pl-Wilson,53
+Loches,Tours,58
+Buzançais,Châteauroux Gare Rout.,30
+Châteauroux Gare Rout.,Tours,150
+Chatillon-Mail,Châteauroux-Charmilles,100
+Clion-sur-Indre,Loches,40
+Chatillon-Mail,Châteauroux Gare Rout.,90
+Châteauroux Gare Rout.,Loches,101
+Cormery,La Douzillère,47
+Loches,Montbazon,65
+Chambourg-Chopin,Cormery,25
+Loches-Lycee-St-Denis,Truyes-St-Blaise,40
+Cormery,Loches,29
+Loches,TOURS LYCEE GRANDMONT,55
+Esvres,Loches,45
+Tours,Reignac-Bourg-Du-Fau,74
+Loches,Truyes-Pl-Du-Souvenir,40
+La Douzillère,Veigné,15
+Loches-LEP,Truyes-Pl-Du-Souvenir,25
+Tours,Loches-LEP,80
+Cormery,Tours,43
+Buzançais,Châteauroux-Ly-B-Pascal,59
+Esvres,La Douzillère,20
+Chatillon-Mail,Châteauroux-L-Giraudoux,93
+Chatillon-Mail,Tours,95
+Vierzon,Romorantin-BA-G.R.,43
+Romorantin-BA-G.R.,Vierzon-Médiathèque,48
+Blois-Chambord,Limeray,35
+Châteaudun,Dourdan,90
+Châteaudun-LEP-Paulsen,Dourdan,102
+Chartres-Gare-Routière,Tours,159
+Chartres-Gare-Routière,Vendôme,84
+Châteaudun,Vendôme,55
+Tours,Vendôme,65
+Chartres-Gare-Routière,Châteaudun,56
+Châteaudun,Tours,111
+Château-Renault,Vendôme-Villiers-s-Loir,47
+Epinal,Neufchâteau,109
+Neufchâteau,Vittel,45
+Lunéville,Rambervillers (11 Nov),54
+Lunéville,Moyen,41
+Luneville-LP,Rambervillers (11 Nov),72
+Lunéville (Cité Scolai),Rambervillers,60
+Lunéville,Rambervillers,52
+Lunéville (Cité Scolai),Rambervillers (11 Nov),71
+Epinal,Mirecourt,44
+Bruyères (Vosges),Lunéville,80
+Remiremont,Gérardmer La Mauselaine,45
+Contrexéville,Epinal,60
+Longwy,Metz-Ville,55
+Bussang (Gare SNCF),Remiremont,54
+Bresse-Claudel (la),Remiremont,57
+Remiremont,La-Bresse (Pl Champtel),63
+Remiremont,La Bresse Le Lispach,83
+Audun-le-Roman,Thionville,40
+Bitche,Sarreguemines,48
+Bitche-Quartier-Driant,Sarreguemines,56
+Sarrebourg,St-Louis-57-Incliné,27
+Lutzelbourg,Sarrebourg,50
+Conflans-Jarny,Metz-Ville,40
+Metz-Ville,Verdun,90
+Conflans-Jarny,Verdun,45
+Marle-sur-Serre,Lugny,5
+BarentonÂ Cel,Verneuil-sur-Serre,5
+Barenton-sur-Serre,Verneuil-sur-Serre,5
+Strasbourg,WOERTH RHEIN,66
+Neustadt (Weinstr) Hbf,Wissembourg,62
+WINDEN PFALZ,Wissembourg,16
+Landau-Pfalz-Hbf,Wissembourg,28
+Lauterbourg,WOERTH RHEIN,15
+Fougères,Rennes,70
+Nice-Ville,Ventimiglia-Stazione,53
+Grasse,Nice-Ville,71
+Grasse,Ventimiglia-Stazione,127
+Grasse,Menton,113
+Menton,Nice-Ville,39
+Cannes-la-Bocca,Ventimiglia-Stazione,107
+Cannes-la-Bocca,Menton,90
+Les Arcs-Draguignan,Ventimiglia-Stazione,138
+Les Arcs-Draguignan,Menton,118
+Cannes-la-Bocca,Monaco-Monte-Carlo,73
+Grasse,Monaco-Monte-Carlo,99
+Monaco-Monte-Carlo,Nice-Ville,24
+Cannes,Ventimiglia-Stazione,101
+Cannes,Monaco-Monte-Carlo,70
+Menton,Ventimiglia-Stazione,16
+Monaco-Monte-Carlo,Ventimiglia-Stazione,30
+Saarbrücken /Sarrebruck,Strasbourg,102
+Mommenheim,Strasbourg,15
+Metz-Ville,Trier-Hbf (Trèves),96
+Longwy,Luxembourg,35
+Luxembourg,Rodange,27
+Perpignan,Port-Bou,59
+Avignon-Centre,Port-Bou,259
+Narbonne,Port-Bou,102
+Nîmes,Port-Bou,209
+Port-Bou,Toulouse-Matabiau,220
+Montpellier-Saint-Roch,Port-Bou,171
+Saarbrücken /Sarrebruck,Sarreguemines,29
+Offenburg,Strasbourg,32
+Kehl,Offenburg,22
+Mulhouse,Mullheim-Baden-Bf,23
+Freiburg-Breisgau,Mulhouse,45
+Luxembourg,Nancy-Ville,92
+Luxembourg,Thionville,25
+Nancy-Ville,Thionville,65
+Bettembourg,Nancy-Ville,79
+Luxembourg,Metz-Ville,49
+Bettembourg,Metz-Ville,36
+Metz-Ville,Thionville,27
+Forbach,Saarbrücken /Sarrebruck,10
+Metz-Ville,Saarbrücken /Sarrebruck,60
+Basel-SBB,Strasbourg,89
+Basel-SBB,Sélestat,69
+Genève,Lyon-Part-Dieu,117
+Bellegarde-s-V. Gare,Genève,28
+Lyon-Part-Dieu,St-Gervais-L-B-Le-Fayet,228
+Genève,Grenoble,144
+Genève,Valence-Ville,195
+St-Pierre-des-Corps,Tours,5
+Mommenheim,Sarreguemines,113
+Mommenheim,Saarbrücken /Sarrebruck,154
+Ingwiller,Mommenheim,35
+Ingwiller,Strasbourg,66
+Roeschwoog,Strasbourg,84
+Lauterbourg,Strasbourg,114
+Colmar,Munster,36
+Kehl,Strasbourg,25
+Saales,St-Dié-des-Vosges,28
+Molsheim,St-Dié-des-Vosges,105
+Rothau,St-Dié-des-Vosges,50
+Molsheim,Rothau,55
+Rothau,Saales,22
+Kruth,Thann-Saint-Jacques,28
+Molsheim,Saales,76
+Thann-Saint-Jacques,Wesserling,19
+Molsheim,Mutzig-Passage-A-Niveau,8
+Erstein,Strasbourg,26
+Colmar,Mulhouse,50
+Bayonne,Pau,145
+Bayonne,Puyoô,70
+Mont-de-Marsan,Morcenx,45
+Bordeaux-St-Jean,Mont-de-Marsan,185
+Lesparre,Pauillac,25
+Bordeaux-St-Jean,Lesparre,157
+Bordeaux-St-Jean,Le-Verdon,200
+Dax,Lourdes,170
+Dax,Pau,110
+Dax,Tarbes,205
+Arcachon,Biganos-Facture,47
+Brive-la-Gaillarde,Périgueux,105
+Condat-le-Lardin,Tulle,85
+Brive-la-Gaillarde,Condat-le-Lardin,44
+Bedous,Pau,86
+Oloron-Ste-Marie,Pau,52
+Bidos,Pau,58
+Bedous,Oloron-Ste-Marie,35
+Bayonne,St-Jean-Pied-de-Port,81
+Bayonne,Cambo-les-Bains,38
+Dax,Hendaye,140
+Bayonne,Morcenx,105
+Bordeaux-St-Jean,Dax,170
+Bergerac,Libourne,104
+Libourne,St-Emilion,19
+Bergerac,Sarlat,94
+Bordeaux-St-Jean,Langon,87
+Agen,Bordeaux-St-Jean,174
+Agen,Périgueux,212
+Agen,Monsempron-Libos,65
+Commentry,Montluçon-Ville,25
+Clermont-Ferrand,Moulins-sur-Allier,165
+Clermont-Ferrand,Riom-Châtel-Guyon,25
+Clermont-Ferrand,Vichy,85
+Gannat,Vichy,32
+Arvant,Brioude,12
+Alès,Clermont-Ferrand,344
+Alès,Brioude,254
+Arvant,Langeac,46
+Arvant,Nîmes,334
+Aurillac,Neussargues,74
+Aurillac,Figeac,80
+Aurillac,Brive-la-Gaillarde,162
+Firminy,Le Puy-en-Velay,129
+Le Puy-en-Velay,Vorey,41
+Dijon-Ville,Laroche-Migennes,216
+Laroche-Migennes,Tonnerre,69
+Frasne,Travers,56
+Laroche-Migennes,Montereau,148
+Clamecy,Laroche-Migennes,113
+Auxerre-St-Gervais,Laroche-Migennes,28
+Dijon-Ville,Is-sur-Tille,65
+Dijon-Porte-Neuve,Is-sur-Tille,32
+Dijon-Ville,Seurre,98
+Besançon-Viotte,Dijon-Ville,164
+Dijon-Ville,Les Laumes-Alésia,107
+Avallon,Laroche-Migennes,110
+Chagny,Montchanin,57
+Decize,Luzy(Nièvre),54
+Cosne-sur-Loire,Nevers-Le-Banlay,118
+Nevers,Nevers-Le-Banlay,13
+Lyon-Perrache,Paray-le-Monial,150
+Besançon-Viotte,Dole-Ville,78
+Belfort-Ville,Vesoul,115
+Besançon-Viotte,Le Valdahon,62
+Luzy(Nièvre),Montchanin,68
+Le Creusot,Luzy(Nièvre),54
+Bourg-en-Bresse,Lons-le-Saunier,89
+Belfort-Ville,Meroux,24
+Belfort-Ville,Delle,75
+Besançon-Franche-Comté,Besançon-Viotte,23
+Rennes,Vitré,60
+Rennes,St-Brieuc,115
+Montauban-de-Bretagne,Rennes,50
+Messac-Guipry,Rennes,75
+Nantes,Rennes,100
+Rennes,Vannes,150
+Messac-Guipry,Vannes,115
+Redon,Rennes,105
+Beslé,Redon,35
+Lorient,Quimper,95
+Lorient,Rosporden,65
+Lorient,Vannes,80
+Lorient,Redon,140
+Brest,Morlaix,85
+Brest,Quimper,130
+Landerneau,Quimper,95
+Brest,La Forest,35
+Brest,Landerneau,45
+Lannion,St-Brieuc,65
+Guingamp,Lannion,55
+Carhaix,Guingamp,75
+Aubrais-(les),Cosne-sur-Loire,135
+Port-de-Piles,Tours,85
+Châteauroux,Vierzon,90
+Argenton-sur-Creuse,Vierzon,130
+Aubrais-(les),Toury,45
+Bourges,Vierzon,70
+Bourges,Montluçon-Ville,160
+Port-Boulet,Tours,77
+Aubrais-(les),Tours,160
+Aubrais-(les),Château-Gaillard,45
+Romorantin-Blanc-Argent,Valençay,45
+Chartres,Nogent-le-Rotrou,91
+Chartres,La Verrière,108
+Chartres,Versailles-Chantiers,110
+Chartres,Courtalain-St-Pellerin,90
+Charleville-Mézières,Givet,107
+Charleville-Mézières,Nouzonville,20
+Charleville-Mézières,Reims,80
+Reims,Sedan,163
+Charleville-Mézières,Sedan,43
+Rethel,Sedan,113
+Laon,Reims,110
+Chaumont,Châlons-en-Champagne,164
+Châlons-en-Champagne,St-Dizier,75
+Châlons-en-Champagne,Château-Thierry,105
+Dormans,Epernay,30
+Bar-le-Duc,Epernay,155
+Bar-le-Duc,St-Dizier,35
+Bar-le-Duc,Châlons-en-Champagne,110
+Culmont-Chalindrey,Troyes,161
+Dijon-Ville,Troyes,145
+Cerbère,Perpignan,107
+Le Grau-du-Roi,Vauvert,44
+Le Grau-du-Roi,Nîmes,93
+Carcassonne,Castelnaudary,59
+Narbonne,Toulouse-Matabiau,218
+Castelnaudary,Narbonne,134
+Alès,Génolhac,57
+Alès,La Bastide-St-Laurent,111
+Alès,Mende,187
+Alès,Langogne,136
+Marvejols,Mende,48
+Alès,Arvant,263
+Langogne,Nîmes,180
+Mende,Nîmes,247
+Marvejols,Nîmes,297
+Castelnaudary,Toulouse-Matabiau,83
+Perpignan,Villefranche-Vernet-l.B,64
+Guéret,Limoges-Bénédictins,111
+Le Dorat,Limoges-Bénédictins,70
+Limoges-Bénédictins,Poitiers,205
+Limoges-Bénédictins,Saillat-Chassenon,91
+Limoges-Bénédictins,Périgueux,147
+St-Yrieix-la-Perche,Pompadour,47
+Nexon,Pompadour,83
+Limoges-Bénédictins,Nexon,33
+Objat,Pompadour,31
+Brive-la-Gaillarde,Objat,46
+Brive-la-Gaillarde,Limoges-Bénédictins,174
+Limoges-Bénédictins,Ussel,192
+Brive-la-Gaillarde,Tulle,44
+Lunéville,Nancy-Ville,71
+Epinal,Nancy-Ville,79
+Longwy,Rodange,16
+Bening,Saarbrücken /Sarrebruck,53
+Longwy,Nancy-Ville,172
+Conflans-Jarny,Longwy,86
+Nancy-Ville,Pont-St-Vincent,60
+Bar-le-Duc,Metz-Ville,138
+Bar-le-Duc,Nancy-Ville,88
+Nancy-Ville,Remiremont,160
+Châlons-en-Champagne,Metz-Ville,228
+Epinal,Remiremont,37
+Baroncourt,Nancy-Ville,109
+Conflans-Jarny,Hagondange,64
+Hagondange,Verdun,113
+Nancy-Ville,St-Dié-des-Vosges,121
+Nancy-Ville,Revigny,144
+Liverdun,Nancy-Ville,25
+Bar-le-Duc,Toul,77
+Lunéville,St-Dié-des-Vosges,41
+Longwy,Sedan,108
+Charleville-Mézières,Longwy,151
+Diemeringen,Saarbrücken /Sarrebruck,75
+Nancy-Ville,Verdun,108
+Dijon-Ville,Neufchâteau,120
+Dijon-Ville,Nancy-Ville,190
+Bettembourg,Luxembourg,20
+Millau,Rodez,85
+Millau,Laissac-Foirail,60
+Mazamet,St-Sulpice (Tarn),103
+Castres,St-Sulpice (Tarn),60
+Capdenac,Figeac,20
+Figeac,Tessonnières,160
+Aurillac,Toulouse-Matabiau,244
+Auch,L'Isle-Jourdain (Gers),51
+Auch,Toulouse-Matabiau,122
+Auch,Colomiers,94
+L'Isle-Jourdain (Gers),Toulouse-Matabiau,72
+Colomiers,L'Isle-Jourdain (Gers),48
+Brive-la-Gaillarde,Montauban-Ville-Bourbon,198
+Cahors,Montauban-Ville-Bourbon,78
+Boussens,Pau,183
+Muret,Tarbes,182
+Boussens,Muret,93
+Boussens,Montréjeau-Gourdan-Pol.,55
+Montréjeau-Gourdan-Pol.,Muret,138
+Pau,Tarbes,93
+Lourdes,Tarbes,35
+Agen,Montauban-Ville-Bourbon,106
+Capdenac,Rodez,86
+Brive-la-Gaillarde,Capdenac,148
+Cambrai Ville,St Quentin,101
+Boulogne Ville,Calais Fréthun,30
+Calais Fréthun,Rang du Fl. Verton Ber.,96
+Lille Flandres,Mouscron / Moeskroen,49
+Douai,Lille Flandres,118
+Cambrai Ville,Valenciennes,95
+Aulnoye Aymeries,Jeumont,50
+Aulnoye Aymeries,Maubeuge,28
+Maubeuge,St Quentin,116
+Aulnoye Aymeries,Busigny,82
+Amiens,Arras,104
+Aulnoye Aymeries,Hirson,104
+Lille Flandres,Valenciennes,127
+Jeumont,Maubeuge,15
+Jeumont,Valenciennes,128
+Charleroi Sud,Maubeuge,60
+Calais Ville,Hazebrouck,109
+Arras,St Pol sur Ternoise,63
+Abbeville,Amiens,56
+Arras,Lens,42
+Arras,Lille Flandres,99
+Amiens,Lille Flandres,223
+Albert,Douai,119
+Amiens,Douai,164
+Albert,Arras,62
+Dunkerque,Lille Flandres,150
+Caen,Cherbourg,174
+Evreux,Mantes-la-Jolie,84
+Le Mans,Tours,133
+Amiens,Rouen-Rive-Droite,186
+La Roche-sur-Yon,La Rochelle-Ville,120
+Angers-St-Laud,Sablé-sur-Sarthe,83
+Le Mans,Nogent-le-Rotrou,95
+Connerré-Beillé,Le Mans,50
+Laval,Le Mans,135
+Angers-St-Laud,Saumur,95
+Angers-St-Laud,Cholet,100
+Beauvais-Gare-SNCF,Persan-Beaumont,90
+Tergnier,Laon-Gare-Routière-Poma,67
+Amiens,Tergnier,159
+Amiens,St Quentin,93
+Creil,Laon,171
+Creil,Laon-Gare-Routière-Poma,200
+St Quentin,Tergnier,28
+Creil,St-Just-SNCF,56
+Amiens,St-Just-SNCF,87
+Amiens,Creil,95
+Abancourt,Le Tréport-Mers-Les-B,83
+Angoulême,Poitiers,158
+La Rochelle-Ville,Saintes,98
+La-Rochelle-Pt-Dauphine,Rochefort,64
+La Rochelle-Ville,St-Mariens-St-Yzan,184
+La Rochelle-Ville,La-Rochelle-Pt-Dauphine,9
+La-Rochelle-Pt-Dauphine,Saintes,133
+Niort,Saintes,95
+Niort,Royan,139
+Angoulême,Saintes,98
+Angoulême,Royan,145
+Breil-sur-Roya,Tende,40
+Cannes,Grasse,50
+Marseille-St-Charles,Toulon,125
+Les Arcs-Draguignan,St-Raphaël-Valescure,30
+Nice-Ville,Sospel,65
+Nice-Ville,Touet-de-l'Escarène,65
+Avignon-Centre,Miramas,100
+Aix-Gare-Routière,Marseille-St-Charles,55
+Aix-Gare-Routière,Gardanne,20
+Marseille-St-Charles,Sisteron,175
+Marseille-St-Charles,Martigues,70
+Roanne-Gare-Routière,Saint-Etienne-Chtx GR,119
+Lyon-Perrache-Gare-Rout,Roanne-Gare-Routière,142
+Clelles-Mens,Veynes-Dévoluy,56
+Gap,Veynes-Dévoluy,30
+La Roche-sur-Foron,St-Gervais-L-B-Le-Fayet,108
+Annecy,La Roche-sur-Foron,55
+Chedde,St-Gervais-L-B-Le-Fayet,10
+Sarrebourg,Strasbourg,59
+Krimmeri-Meinau,Strasbourg,7
+Metz-Ville,Strasbourg,86
+Strasbourg,Wissembourg,58
+Krimmeri-Meinau,Sarreguemines,92
+Colmar,Strasbourg,53
+Obernai,Strasbourg,31
+St-Dié-des-Vosges,Strasbourg,112
+Mulhouse,Strasbourg,61
+Erstein,Mulhouse,53
+Mulhouse,Sélestat,40
+Lutterbach Tram-train,Mulhouse-Gare-Centrale,19
+Mulhouse-Gare-Centrale,Thann-Saint-Jacques,46
+Mulhouse-Gare-Centrale,Thann,41
+Mulhouse,Thann-Saint-Jacques,32
+Mulhouse,Willer-sur-Thur,36
+Mulhouse,Thann,26
+Mulhouse,Wesserling,47
+Niederbronn,Strasbourg,53
+Conflans-Jarny,Nancy-Ville,51
+Longuyon,Thionville,39
+Longwy,Thionville,55
+Bar-le-Duc,Lunéville,98
+Lunéville,Revigny,108
+Epernay,Nancy-Ville,123
+Epernay,Lunéville,165
+Epernay,Metz-Ville,117
+Lunéville,Toul,68
+Epinal,Metz-Ville,120
+Metz-Ville,Remiremont,135
+Metz-Ville,Sarrebourg,62
+Metz-Ville,Sarreguemines,62
+Nancy-Ville,Strasbourg,89
+Lunéville,Strasbourg,67
+Lunéville,Metz-Ville,73
+Nancy-Ville,Toul,23
+Culmont-Chalindrey,Vittel,49
+Paris-Est,Vittel,230
+Charleville-Mézières,Longuyon,60
+Charleville-Mézières,Thionville,96
+Champagne-Ardenne,Charleville-Mézières,71
+Champagne-Ardenne,Reims,12
+Château-Thierry,Reims,66
+Bar-le-Duc,Paris-Est,150
+Château-Thierry,Paris-Est,53
+Bar-le-Duc,Château-Thierry,95
+Châlons-en-Champagne,Paris-Est,101
+Paris-Est,St-Dizier,140
+Epernay,Paris-Est,84
+Château-Thierry,St-Dizier,85
+Paris-Est,Strasbourg,359
+Paris-Est,Sarrebourg,270
+Nancy-Ville,Paris-Est,199
+Bar-le-Duc,Strasbourg,158
+Paris-Est,Troyes,90
+Culmont-Chalindrey,Paris-Est,188
+Chaumont,Culmont-Chalindrey,33
+Chaumont,Paris-Est,145
+Mulhouse,Paris-Est,294
+Mulhouse,Troyes,182
+Chaumont,Mulhouse,137
+Belfort-Ville,Paris-Est,247
+Belfort-Ville,Troyes,163
+Longueville (S.-et-M.),Mulhouse,234
+Belfort-Ville,Chaumont,105
+Dijon-Ville,Paris-Est,223
+Culmont-Chalindrey,Dijon-Ville,46
+Châlons-en-Champagne,Reims,44
+Reims,St-Dizier,93
+Culmont-Chalindrey,Reims,171
+Chaumont,Reims,130
+Culmont-Chalindrey,St-Dizier,89
+Dijon-Ville,Reims,216
+Dijon-Ville,St-Dizier,128
+Epernay,Reims,35
+Champagne-Ardenne,Sedan,105
+Aulnoye Aymeries,Valenciennes,29
+Maubeuge,Valenciennes,42
+Hirson,Valenciennes,90
+Busigny,Maubeuge,36
+Aulnoye Aymeries,Tergnier,71
+Aulnoye Aymeries,St Quentin,48
+Lille Flandres,Maubeuge,72
+Aulnoye Aymeries,Lille Flandres,60
+Jeumont,Lille Flandres,81
+Hirson,Lille Flandres,108
+Charleville-Mézières,Lille Flandres,146
+Béthune,Lille Flandres,39
+Calais Ville,Rang du Fl. Verton Ber.,68
+Calais Ville,Etaples Le Touquet,62
+Cambrai Ville,Douai,34
+Douai,Valenciennes,38
+Douai,Lens,31
+Lille Flandres,St Quentin,107
+Cambrai Ville,Lille Flandres,59
+Douai,St Quentin,93
+Lille Flandres,Tourcoing,14
+Boulogne Ville,Lille Europe,72
+Calais Ville,Lille Europe,49
+Arras,Calais Fréthun,67
+Lille Europe,Rang du Fl. Verton Ber.,94
+Calais Fréthun,Lille Europe,29
+Dunkerque,Lille Europe,31
+Amiens,Dunkerque,104
+Calais Ville,Dunkerque,50
+Dunkerque,Hazebrouck,36
+Lille Flandres,St Omer,50
+Calais Ville,Lille Flandres,75
+Arras,Hazebrouck,58
+Arras,Dunkerque,93
+Arras,Béthune,36
+Hazebrouck,Lens,42
+Béthune,Lens,17
+Arras,Calais Ville,123
+Hirson,Laon,51
+Beauvais-Gare-SNCF,Paris Nord,73
+Paris Nord,Persan-Beaumont,63
+Creil,Paris Nord,21
+Abancourt,Creil,103
+Abancourt,Beauvais-Gare-SNCF,48
+Compiègne,Paris Nord,56
+Compiègne,Creil,37
+Paris Nord,Tergnier,88
+Creil,St Quentin,104
+Abbeville,Albert,80
+Amiens,Compiègne,60
+Paris Nord,St-Just-SNCF,64
+Clermont-de-l'Oise,Paris Nord,50
+Amiens,Laon,84
+Laon,Tergnier,26
+Lille Flandres,Rouen-Rive-Droite,168
+Abancourt,Amiens,35
+Aulnoye Aymeries,Laon,111
+Laon,Paris Nord,90
+Crépy-en-Valois,Laon,69
+Paris-St-Lazare,Vernon-Giverny,60
+Oissel,Paris-St-Lazare,94
+Mantes-la-Jolie,Vernon-Giverny,17
+Le Havre,Montivilliers,15
+Le Havre,Rolleville,26
+Fécamp,Le Havre,46
+Le Havre,Rouen-Rive-Droite,61
+Elbeuf-St-Aubin,Yvetot,63
+Rouen-Rive-Droite,Yvetot,34
+Evreux,Paris-St-Lazare,69
+Paris-St-Lazare,Serquigny,105
+Bueil,Mantes-la-Jolie,15
+Dieppe,Rouen-Rive-Droite,63
+Evreux,Lisieux,52
+Caen,Lisieux,33
+Caen,Coutances,75
+Caen,St-Lô,51
+Caen,Dol,167
+Dol,Granville,59
+Argentan,Granville,83
+Caen,Granville,103
+Alençon,Caen,71
+Argentan,Caen,40
+Rennes,Retiers,42
+Janzé,Rennes,36
+Dol,Rennes,33
+Montreuil-sur-Ille,Rennes,30
+Rennes,St-Malo,55
+Lannion,Plouaret-Trégor,16
+Callac,Carhaix,26
+Callac,Guingamp,41
+Guingamp,Paimpol,47
+La Brohinière,Rennes,32
+Brest,Lannion,91
+Brest,Rennes,139
+Quimper,Vannes,86
+Quimper,Rennes,141
+Château-du-Loir,Le Mans,50
+Alençon,Le Mans,53
+Alençon,Tours,145
+Alençon,Château-du-Loir,106
+Le Mans,Nantes,94
+Angers-St-Laud,Nantes,43
+Le Croisic,Le Mans,177
+Angers-St-Laud,Le Mans,66
+Le Mans,Sablé-sur-Sarthe,22
+Laval,Rennes,55
+Le Mans,Rennes,103
+Laval,Nantes,101
+Le Croisic,Rennes,222
+Nantes,St-Nazaire,51
+Le Croisic,Nantes,74
+Nantes,Redon,58
+Nantes,Quimper,174
+Brest,Nantes,203
+Nantes,Savenay,34
+Nantes,Saumur,86
+Cholet,Saumur,85
+La Roche-sur-Yon,Nantes,55
+Les Sables-d'Olonne,Nantes,87
+Chantonnay,La Roche-sur-Yon,31
+Les Sables-d'Olonne,Saumur,158
+Nantes,Ste-Pazanne,32
+Nantes,Pornic,60
+Ancenis,Nantes,28
+Nantes,Sucé-Sur-Erdre,27
+Nantes,Nort-sur-Erdre,40
+Châteaubriant-TT,Nantes,67
+Clisson,Nantes,29
+Nantes,Orléans,170
+Le Croisic,Orléans,258
+Le Croisic,Tours,190
+Nantes,Tours,93
+Angers-St-Laud,Tours,78
+Saumur,Tours,51
+Thouars,Tours,78
+Bressuire,Tours,103
+Angers-St-Laud,Thouars,68
+Blois-Chambord,Orléans,49
+Orléans,St-Pierre-des-Corps,58
+Reignac,Tours,45
+Paris-Austerlitz,Vendôme,139
+Châteaudun,Paris-Austerlitz,95
+Châteaudun,Paris-Gare-de-Lyon,97
+Paris-Gare-de-Lyon,Vendôme,132
+Paris-Bercy,Vendôme,149
+Châteaudun,Voves,21
+Tours,Voves,137
+Bléré-la-Croix,Tours,28
+St-Aignan-Noyers,Tours,57
+Tours,Vierzon,87
+Bourges,Tours,110
+Nevers,Tours,146
+Saumur,Thouars,30
+Montluçon-Ville,Vallon-en-Sully,31
+Commentry,Vallon-en-Sully,47
+Commentry,St-Amand-Montrond-Orval,98
+Bourges,Commentry,121
+Salbris,Valençay,87
+Bourges,Orléans,73
+Orléans,Vierzon,51
+Nevers,Orléans,132
+Nevers,Vierzon,69
+Argenton-sur-Creuse,Orléans,117
+Châteauroux,Orléans,95
+Limoges-Bénédictins,Orléans,203
+Limoges-Bénédictins,Vierzon,129
+Argenton-sur-Creuse,Limoges-Bénédictins,74
+Chartres,Voves,23
+Angers-St-Laud,Chartres,163
+Poitiers,Tours,74
+Niort,Poitiers,59
+La Rochelle-Ville,Poitiers,100
+La Rochelle-Ville,Niort,44
+La Roche-sur-Yon,Tours,199
+La Rochelle-Ville,Rochefort,30
+Bordeaux-St-Jean,Saintes,99
+Royan,Saintes,26
+Angoulême,La-Rochelle-Pt-Dauphine,138
+Angoulême,La Rochelle-Ville,126
+Bordeaux-St-Jean,La-Rochelle-Pt-Dauphine,164
+Bordeaux-St-Jean,La Rochelle-Ville,162
+Angoulême,Bordeaux-St-Jean,89
+Bordeaux-St-Jean,Libourne,35
+Angoulême,Coutras,55
+Bordeaux-St-Jean,Coutras,47
+Bordeaux-St-Jean,St-Mariens-St-Yzan,43
+Bordeaux-St-Jean,Brive-la-Gaillarde,143
+Bordeaux-St-Jean,Périgueux,82
+Bordeaux-St-Jean,Condat-le-Lardin,121
+Bordeaux-St-Jean,Tulle,193
+Condat-le-Lardin,Périgueux,34
+Mussidan,Périgueux,30
+Bordeaux-St-Jean,Limoges-Bénédictins,145
+Bergerac,Bordeaux-St-Jean,76
+Bordeaux-St-Jean,Sarlat,144
+Bordeaux-St-Jean,Le Buisson,110
+Le Buisson,Périgueux,53
+Agen,Limoges-Bénédictins,216
+Monsempron-Libos,Périgueux,104
+Bordeaux-St-Jean,Morcenx,60
+Bordeaux-St-Jean,Pauillac,59
+Lesparre,Pessac,72
+Bordeaux-St-Jean,Macau,41
+Macau,Pessac,34
+Arcachon,Bordeaux-St-Jean,52
+Biganos-Facture,Bordeaux-St-Jean,29
+Bordeaux-St-Jean,Hendaye,178
+Bayonne,Dax,44
+Bayonne,Hendaye,37
+Agen,Marmande,36
+Bordeaux-St-Jean,Marmande,67
+Agen,Langon,69
+Bayonne,Tarbes,145
+Bordeaux-St-Jean,Pau,132
+Bordeaux-St-Jean,Tarbes,188
+Bordeaux-St-Jean,Lourdes,174
+Le Dorat,Poitiers,60
+Limoges-Bénédictins,St-Junien,38
+Limoges-Bénédictins,St-Yrieix-la-Perche,39
+Eymoutiers-Vassiviere,Limoges-Bénédictins,45
+Limoges-Bénédictins,Montluçon-Ville,131
+Felletin-Gare,Guéret,52
+Bordeaux-St-Jean,Montluçon-Ville,259
+Bordeaux-St-Jean,Guéret,208
+Bordeaux-St-Jean,Ussel,262
+Périgueux,Ussel,169
+La Souterraine,Limoges-Bénédictins,47
+Châteauroux,Limoges-Bénédictins,86
+Rodez,Toulouse-Matabiau,137
+Carmaux,Toulouse-Matabiau,76
+Brive-la-Gaillarde,Rodez,145
+Colomiers,Toulouse-Matabiau,22
+L'Isle-Jourdain (Gers),Saint-Cyprien-Arènes,33
+Colomiers,Saint-Cyprien-Arènes,13
+Carcassonne,Toulouse-Matabiau,74
+Capdenac,Toulouse-Matabiau,137
+Tessonnières,Toulouse-Matabiau,53
+Aurillac,Clermont-Ferrand,152
+Arvant,Clermont-Ferrand,47
+Pamiers,Toulouse-Matabiau,57
+Latour-de-Carol-Enveitg,Toulouse-Matabiau,174
+Foix,Latour-de-Carol-Enveitg,105
+Brive-la-Gaillarde,Toulouse-Matabiau,147
+Cahors,Toulouse-Matabiau,74
+Montauban-Ville-Bourbon,Toulouse-Matabiau,43
+Brive-la-Gaillarde,Cahors,66
+Agen,Toulouse-Matabiau,81
+St-Sulpice (Tarn),Toulouse-Matabiau,24
+Muret,Toulouse-Matabiau,19
+Boussens,Toulouse-Matabiau,58
+Montréjeau-Gourdan-Pol.,Toulouse-Matabiau,86
+Tarbes,Toulouse-Matabiau,109
+Clermont-Ferrand,Durtol-Nohanent,13
+Clermont-Ferrand,St-Germain-des-Fossés,40
+Clermont-Ferrand,Nevers,106
+Clermont-Ferrand,Vic-le-Comte,21
+Brioude,Clermont-Ferrand,67
+Clermont-Ferrand,Issoire,40
+Clermont-Ferrand,Le Lioran,111
+Brive-la-Gaillarde,Neussargues,168
+Clermont-Ferrand,Nîmes,307
+Nevers,Vic-le-Comte,124
+Moulins-sur-Allier,Vic-le-Comte,92
+St-Germain-des-Fossés,Vic-le-Comte,66
+Issoire,Moulins-sur-Allier,113
+Issoire,Riom-Châtel-Guyon,57
+Riom-Châtel-Guyon,Vic-le-Comte,38
+Issoire,St-Germain-des-Fossés,88
+Gannat,Issoire,81
+Gannat,Vic-le-Comte,66
+Brioude,Gannat,100
+Brioude,Moulins-sur-Allier,149
+Clermont-Ferrand,Dijon-Ville,260
+Dijon-Ville,Moulins-sur-Allier,178
+Clermont-Ferrand,Lyon-Perrache,171
+Narbonne,Perpignan,46
+Lunel,Narbonne,100
+Montpellier-Saint-Roch,Narbonne,71
+Cerbère,Narbonne,87
+Montpellier-Saint-Roch,Perpignan,130
+Nîmes,Toulouse-Matabiau,210
+Montpellier-Saint-Roch,Toulouse-Matabiau,176
+Carcassonne,Narbonne,36
+Carcassonne,Nîmes,140
+Perpignan,Toulouse-Matabiau,154
+Cerbère,Toulouse-Matabiau,199
+Carcassonne,Perpignan,91
+Avignon-Centre,Sète,109
+Montpellier-Saint-Roch,Nîmes,43
+Avignon-Centre,Montpellier-Saint-Roch,76
+Avignon-Centre,Narbonne,144
+Nîmes,Sète,66
+Lunel,Sète,54
+Montpellier-Saint-Roch,Sète,23
+Lunel,Montpellier-Saint-Roch,20
+Avignon-Centre,Nîmes,37
+Nîmes,Perpignan,160
+Narbonne,Nîmes,98
+Cerbère,Nîmes,197
+Avignon-Centre,Perpignan,196
+Avignon-Centre,Cerbère,238
+Béziers,Marseille-St-Charles,171
+Marseille-St-Charles,Narbonne,188
+Marseille-St-Charles,Montpellier-Saint-Roch,119
+Cerbère,Montpellier-Saint-Roch,154
+Génolhac,Nîmes,77
+La Bastide-St-Laurent,Nîmes,114
+Nîmes,Vauvert,24
+Béziers,St-Chély-d'Apcher,244
+Béziers,Millau,117
+Millau,St-Chély-d'Apcher,111
+Montpellier-Saint-Roch,St-Chély-d'Apcher,297
+Marseille-St-Charles,Miramas,33
+Avignon-Centre,Orange,26
+Avignon-Centre,Avignon-TGV,5
+Avignon-Centre,Carpentras,28
+Avignon-TGV,Carpentras,41
+Avignon-TGV,Marseille-St-Charles,133
+Cavaillon,Marseille-St-Charles,70
+Gardanne,Marseille-St-Charles,36
+Aix-en-Provence,Manosque-Gréoux,45
+Manosque-Gréoux,Marseille-St-Charles,95
+Aubagne,Marseille-St-Charles,31
+Aubagne,Marseille-Blancarde,22
+Cannes,Menton,69
+Antibes,Grasse,41
+Cannes,Les Arcs-Draguignan,55
+Cannes,St-Raphaël-Valescure,38
+Hyères,Marseille-St-Charles,84
+Hyères,Toulon,21
+Les Arcs-Draguignan,Toulon,60
+Carnoules,Toulon,31
+Marseille-St-Charles,Menton,205
+Ambérieu-en-Bugey,Mâcon-Ville,54
+Ambérieu-en-Bugey,Bourg-en-Bresse,23
+Bourg-en-Bresse,Mâcon-Ville,29
+Chambéry-Chal.-les-Eaux,Moûtiers-Salins-Brides,80
+Aix-les-Bains-le-Revard,Bourg-St-Maurice,129
+Ambérieu-en-Bugey,Chambéry-Chal.-les-Eaux,73
+Chambéry-Chal.-les-Eaux,Grenoble,53
+Annecy,St-Gervais-L-B-Le-Fayet,97
+Bellegarde-s-V. Gare,La Roche-sur-Foron,65
+Grenoble U.-Gières,Valence-Ville,97
+Grenoble U.-Gières,St-Marcellin,53
+St-Marcellin,Valence-Ville,39
+Grenoble,St-Marcellin,40
+Grenoble U.-Gières,Rives,43
+Grenoble U.-Gières,St-André-le-Gaz,69
+Grenoble,St-André-le-Gaz,62
+Grenoble,Rives,30
+Gap,Grenoble,181
+Clelles-Mens,Grenoble,71
+Grenoble,Veynes-Dévoluy,134
+Chambéry-Chal.-les-Eaux,Rives,90
+Lyon-Part-Dieu,Mâcon-Ville,62
+Lyon-Perrache,Mâcon-Ville,60
+Lyon-Perrache,Valence-Ville,70
+Lyon-Part-Dieu,Valence-Ville,71
+Mâcon-Ville,Valence-Ville,138
+Marseille-St-Charles,Valence-Ville,145
+Mâcon-Ville,Pierrelatte,189
+Avignon-Centre,Mâcon-Ville,235
+Avignon-Centre,Valence-Ville,89
+Avignon-Centre,Lyon-Perrache,168
+Firminy,Lyon-Perrache,82
+Firminy,St-Etienne-Châteaucreux,22
+Lyon-Perrache,St-Etienne-Châteaucreux,55
+Givors-Ville,Lyon-Perrache,25
+Bourg-en-Bresse,Oyonnax,53
+Lyon-Perrache,Oyonnax,130
+Bourg-en-Bresse,Lyon-Perrache,65
+Bourg-en-Bresse,Lyon-Part-Dieu,42
+Lyon-Perrache,Roanne,89
+Ambérieu-en-Bugey,St-Etienne-Châteaucreux,97
+Ambérieu-en-Bugey,Givors-Ville,64
+Lyon-Part-Dieu,St-Etienne-Châteaucreux,46
+Givors-Ville,Lyon-Part-Dieu,17
+Ambérieu-en-Bugey,Lyon-Part-Dieu,41
+Roanne,St-Etienne-Châteaucreux,73
+Lyon-Perrache,Vienne,34
+Vienne,Villefranche-sur-Saône,74
+Mâcon-Ville,Vienne,98
+Lyon-Perrache,Villefranche-sur-Saône,36
+Lyon-Perrache,St-André-le-Gaz,56
+Bourgoin-Jallieu,Lyon-Perrache,37
+Die,Romans-Bourg-de-Péage,83
+Lyon-Perrache,Sathonay-Rillieux,19
+Montbrison,St-Etienne-Châteaucreux,40
+Boën,St-Etienne-Châteaucreux,53
+Le Puy-en-Velay,St-Etienne-Châteaucreux,113
+Bas-Monistrol,St-Etienne-Châteaucreux,55
+Lyon-St-Paul,Sain-Bel,42
+L'Arbresle,Lyon-St-Paul,37
+Lozanne,Tassin,25
+Brignais,Lyon-St-Paul,25
+Laroche-Migennes,Paris-Gare-de-Lyon,125
+Montereau,Paris-Gare-de-Lyon,57
+Laroche-Migennes,Paris-Bercy,124
+Corbigny,Paris-Bercy,213
+Corbigny,Paris-Gare-de-Lyon,215
+Auxerre-St-Gervais,Paris-Bercy,105
+Clamecy,Paris-Bercy,165
+Clamecy,Paris-Gare-de-Lyon,159
+Avallon,Paris-Bercy,158
+Avallon,Paris-Gare-de-Lyon,160
+Auxerre-St-Gervais,Paris-Gare-de-Lyon,119
+Auxerre-St-Gervais,Dijon-Ville,114
+Chalon-sur-Saône,Dijon-Ville,43
+Is-sur-Tille,Les Laumes-Alésia,76
+Bourg-en-Bresse,Dijon-Ville,102
+Chalon-sur-Saône,Mâcon-Ville,39
+Corbigny,Laroche-Migennes,113
+Dijon-Ville,Montchanin,45
+Dijon-Ville,Le Creusot,53
+Autun,Dijon-Ville,91
+Chalon-sur-Saône,Montchanin,39
+Etang,Montchanin,30
+Autun,Nevers,94
+Montchanin,Paray-le-Monial,43
+Decize,Moulins-sur-Allier,75
+Cosne-sur-Loire,Nevers,48
+Cosne-sur-Loire,Decize,89
+Belfort-Ville,Besançon-Viotte,71
+Dijon-Ville,Dole-Ville,28
+Belfort-Ville,Epinal,92
+Belfort-Ville,Montbéliard-Ville,15
+Delle,Meroux,17
+Besançon-Mouillère,Le Valdahon,43
+Besançon-Mouillère,Morteau,82
+Besançon-Viotte,Saint-Claude,148
+Dole-Ville,Pontarlier,75
+Andelot,Dole-Ville,41
+Besançon-Viotte,Lyon-Perrache,176
+Lyon-Part-Dieu,Mouchard,128
+Besançon-Viotte,Lyon-Part-Dieu,159
+Lyon-Perrache,Mouchard,139
+Besançon-Viotte,Bourg-en-Bresse,118
+Belfort-Ville,Lyon-Part-Dieu,230
+Belfort-Ville,Bourg-en-Bresse,186
+Belfort-Ville,Lyon-Perrache,244
+Lons-le-Saunier,Lyon-Perrache,103
+Belfort-Ville,Lons-le-Saunier,144
+Besançon-Viotte,Lons-le-Saunier,89
+Bourg-en-Bresse,Mouchard,81
